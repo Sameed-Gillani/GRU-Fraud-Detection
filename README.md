@@ -13,9 +13,13 @@ in digital payment streams using the PaySim synthetic dataset.
 ## Files
 - `GRU_Fraud_Detection.ipynb` — Full model code
 
+## Research Website
+View the full project showcase here:
+[https://sites.google.com/view/your-site-name](https://sites.google.com/isb.nu.edu.pk/fraud-detection-using-gru/home)
+
 ## Dataset
-Download PaySim from Kaggle:
-https://www.kaggle.com/datasets/ealaxi/paysim1
+Download PaySim dataset from: [Google Drive Link](https://drive.google.com/drive/folders/1E6riS6vOGjQwE-T6v9J5IvJ5M4sQXz1Z?usp=drive_link)
+Or directly from Kaggle: https://www.kaggle.com/datasets/ealaxi/paysim1
 
 ## Tools Used
 - Python 3.10
